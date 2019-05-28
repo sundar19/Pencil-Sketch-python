@@ -2,7 +2,7 @@
 used to convert an image to pencil sketch
 
 PACKAGES REQUIRED:
-pip3 install numpy
+pip3 install numpy,
 install OpenCV Python (not a command line)
 
 NOTE:
